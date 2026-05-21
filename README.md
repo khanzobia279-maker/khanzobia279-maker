@@ -22,7 +22,7 @@ education   :
   - Modern Web & App Development @ SMIT
   - Computer Science @ College
 certification: Cisco Introduction to Modern AI
-status      : 🟢 Open to Frontend & WebDeve Internships
+status      : 🟢 Open to Frontend & WebDevelopment Internships
 ```
 
 > Fontend developer focused on clean, responsive, and functional web interfaces.
