@@ -65,7 +65,7 @@ status      : 🟢 Open to Frontend & WebDevelopment Internships
 ## 🚀 Currently
 
 ```bash
-learning   →  JavaScript · DOM · Events · Arrays · Functions
+learning   →  React · Virtual DOM · UI · Jsx · Node.js
 reading    →  A Smarter Way to Learn JavaScript
 next up    →  Tailwind CSS · MongoDB · API Integration · Component Architecture
 goal       →  Land a Frontend or Web Development Internship 🎯
