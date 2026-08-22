@@ -19,7 +19,8 @@ role        : Frontend Developer
 location    : Karachi, Pakistan 🇵🇰
 education   :
   - Modern Web & App Development @ SMIT
-  - Computer Science @ College
+  - Computer Science @ MMC Govt Girls College
+  - Enrolling in University
 certification: Cisco Introduction to Modern AI
 status      : 🟢 Open to Frontend & WebDevelopment Internships
 ```
