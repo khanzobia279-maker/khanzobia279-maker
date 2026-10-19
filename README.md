@@ -79,7 +79,7 @@ status      : 🟢 Open to Frontend Jobs & Internships
 learning   →  React · Redux Toolkit · State Management · Hooks
 next up    →  Node.js · MongoDB · API Integration · Component Architecture
 goal       →  Land a Frontend Developer Job or Internship 🎯
-open to    →  Frontend Jobs · Internships · Mentorship · Remote & Karachi based roles
+🚀 Open to Frontend Jobs, Internships, Freelance & Remote/Karachi roles
 ```
 
 ---
