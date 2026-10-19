@@ -21,8 +21,9 @@ location    : Karachi, Pakistan 🇵🇰
 education   :
   - Modern Web & App Development @ SMIT
   - Computer Science @ MMC Govt Girls College
-  - BS in YOUR-DEGREE @ YOUR-UNIVERSITY (Expected YEAR)
-certification: Cisco Introduction to Modern AI (YEAR)
+  - Enrolling in University 
+Certification: Cisco Introduction to Modern AI
+Participation in Cisco Learn-A-Thon
 status      : 🟢 Open to Frontend Jobs & Internships
 ```
 
