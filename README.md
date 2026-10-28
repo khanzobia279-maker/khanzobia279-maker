@@ -79,10 +79,10 @@ status      : 🟢 Open to Frontend Jobs & Internships
 ## 🚀 Currently
 
 ```bash
-learning   →  React · Express.js · State Management · Hooks
+learning   →  React · Express.js · TSX · Backend
 next up    →  Node.js · MongoDB · API Integration · Component Architecture
 goal       →  Land a Frontend Developer Job or Internship 🎯
-🚀 Open to Frontend Jobs, Internships, Freelance & Remote/Karachi roles```
+🚀 Open to Frontend Jobs, Internships, Freelance & Remote/Karachi roles
 ```
 
 <div align="center">
