@@ -83,8 +83,7 @@ learning   →  React · Express.js · State Management · Hooks
 next up    →  Node.js · MongoDB · API Integration · Component Architecture
 goal       →  Land a Frontend Developer Job or Internship 🎯
 🚀 Open to Frontend Jobs, Internships, Freelance & Remote/Karachi roles```
-
----
+```
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:63e6e2,50:ff6ec7,100:12132a&height=100&section=footer" width="100%"/>
