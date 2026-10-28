@@ -4,9 +4,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zobs-k12)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6EC7?style=for-the-badge&logo=vercel&logoColor=white)](https://ultimate-portfolio-iota.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khanzobia279-maker)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
+[![Resume](https://img.shields.io/badge/Resume-63E6E2?style=for-the-badge&logo=adobeacrobatreader&logoColor=12132A)](https://github.com/khanzobia279-maker/khanzobia279-maker/blob/main/Zobia_Khan_resume.pdf)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=Modern+Frontend+Developer+from+Karachi+%F0%9F%87%B5%F0%9F%87%B0;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+Tailwind+%C2%B7+React;Learning+React+and+Redux+Toolkit;Cisco+AI+Certified;Building+clean+interfaces+%E2%9C%A8;%F0%9F%9F%A2+Open+to+Frontend+Jobs+and+Internships)](https://ultimate-portfolio-iota.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=Modern+Frontend+Developer+from+Karachi+%F0%9F%87%B5%F0%9F%87%B0;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+Tailwind+%C2%B7+React;Learning+React+and+Express.js;Cisco+AI+Certified;Building+clean+interfaces+%E2%9C%A8;%F0%9F%9F%A2+Open+to+Frontend+Jobs+and+Internships)](https://ultimate-portfolio-iota.vercel.app/)
 
 </div>
 
@@ -30,7 +30,7 @@ status      : 🟢 Open to Frontend Jobs & Internships
 
 > Modern frontend developer focused on clean, responsive, and functional web interfaces.
 > I learn by building — every project is a new concept locked in.
-> Now working with Tailwind CSS and moving deeper into React and Redux Toolkit for professional frontend workflows.
+> Now working with Tailwind CSS and moving deeper into React and Express.js for professional frontend workflows.
 
 🔗 **See my work:** [ultimate-portfolio-iota.vercel.app](https://ultimate-portfolio-iota.vercel.app/)
 
@@ -50,10 +50,10 @@ status      : 🟢 Open to Frontend Jobs & Internships
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 **📚 Currently Learning**
 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 **🧪 Explored**
@@ -84,6 +84,8 @@ next up    →  Node.js · MongoDB · API Integration · Component Architecture
 goal       →  Land a Frontend Developer Job or Internship 🎯
 🚀 Open to Frontend Jobs, Internships, Freelance & Remote/Karachi roles
 ```
+
+---
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:63e6e2,50:ff6ec7,100:12132a&height=100&section=footer" width="100%"/>
