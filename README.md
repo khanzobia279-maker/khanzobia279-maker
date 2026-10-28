@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12132a,50:ff6ec7,100:63e6e2&height=200&section=header&text=Zobia%20Khan&fontSize=50&fontColor=eef0fb&fontAlignY=35&desc=Modern%20Frontend%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zobs-k12)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6EC7?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://khanzobia279-maker.github.io/Zobia-Khan--portfolio/)
+[![Portfolio]([https://img.shields.io/badge/Portfolio-FF6EC7?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://khanzobia279-maker.github.io/Zobia-Khan--portfolio/](https://ultimate-portfolio-iota.vercel.app/))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khanzobia279-maker)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
 
