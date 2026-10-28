@@ -52,12 +52,11 @@ status      : 🟢 Open to Frontend Jobs & Internships
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-
 **📚 Currently Learning**
 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-**🧪 Explored **
+**🧪 Explored**
 
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCB6B?style=for-the-badge&logo=firebase&logoColor=black)
