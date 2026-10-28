@@ -4,7 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zobs-k12)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6EC7?style=for-the-badge&logo=vercel&logoColor=white)](https://ultimate-portfolio-iota.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khanzobia279-maker)
-[![Resume](https://img.shields.io/badge/Resume-63E6E2?style=for-the-badge&logo=adobeacrobatreader&logoColor=12132A)](https://github.com/khanzobia279-maker/khanzobia279-maker/blob/main/Zobia_Khan_resume.pdf)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=Modern+Frontend+Developer+from+Karachi+%F0%9F%87%B5%F0%9F%87%B0;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+Tailwind+%C2%B7+React;Learning+React+and+Express.js;Cisco+AI+Certified;Building+clean+interfaces+%E2%9C%A8;%F0%9F%9F%A2+Open+to+Frontend+Jobs+and+Internships)](https://ultimate-portfolio-iota.vercel.app/)
 
